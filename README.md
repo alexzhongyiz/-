@@ -1,6 +1,6 @@
 
 github repo for the 7th Qishi trading strategy study group
-# 中级机器学习小组第八期课程大纲
+# 第七期交易策略学习小组课程大纲
 
 本仓库包含了课程大纲，包括课程安排、教材和参考资料等。
 
