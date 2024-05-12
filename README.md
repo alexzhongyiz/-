@@ -1,4 +1,4 @@
-# -
+
 github repo for the 7th Qishi trading strategy study group
 # 中级机器学习小组第八期课程大纲
 
@@ -8,14 +8,6 @@ github repo for the 7th Qishi trading strategy study group
 
 -  Efficiently Inefficient by Lasse Pedersen
   
-
-## 参考资料
-
-
-## 推荐书籍
-
-
-## 公开课（带视频）
 
 
 
