@@ -15,7 +15,7 @@ github repo for the 7th Qishi trading strategy study group
 
 Week 1(10.22): Introduction (Zhongyi Zhang) 
 
-### Basic Topics 
+
 
 Week 2(10.29): Portfolio Construction and risk management(Rachel Zhang)
 
